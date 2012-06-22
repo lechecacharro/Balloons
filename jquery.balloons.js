@@ -490,7 +490,7 @@ $.fn.balloons = function(options) {
             b.fadeIn('slow');
             
             setTimeout(function() {
-              d.resolve()
+              d.resolve();
             }, o.timeout);
             
             return d;
