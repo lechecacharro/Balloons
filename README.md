@@ -1,8 +1,8 @@
-===Balloons jQuery Plugin
+# Balloons jQuery Plugin
 
 Balloons is a probably unuseful jQuery plugin (thanks Euler!), which basically plots circles (balloons) in polar coordinates.
 
-The basic usage is as follows:
+The basic usage is as follows ([sample](http://lechecacharro.github.com/Balloons "Sample")):
 
 ```javascript
 $('#ex1').balloons({
